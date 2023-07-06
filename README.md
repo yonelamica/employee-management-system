@@ -52,6 +52,16 @@ You can choose between two options for the Bootstrap JavaScript:
 
 Install depenancies on the requirements.txt.
 
+Here's how program looks in action;
+![Screenshot (162)](https://github.com/yonelamica/employee-management-system/assets/124032974/26b648e9-37a1-4b6a-a4f0-8bb3f5bae37d)
+![Screenshot (163)](https://github.com/yonelamica/employee-management-system/assets/124032974/6d6f8c1e-df0b-4ff9-9856-06cda30688fa)
+![Screenshot (164)](https://github.com/yonelamica/employee-management-system/assets/124032974/28724c3d-a192-40d8-9da7-6d447bfc5be0)
+![Screenshot (165)](https://github.com/yonelamica/employee-management-system/assets/124032974/5d30eeee-09bc-4fff-a8e1-637f45103bbc)
+
+
+
+
+
 ## License
 
 This code is available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and use it according to your needs.
